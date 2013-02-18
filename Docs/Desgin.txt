@@ -1,0 +1,3 @@
+This is documents realting to hotel ideas, we should collaborate and come up with some design.
+Tecnologies under considerations are 
+Git, Jquery, Jason, Spring, Ibatis, MySql -Start with this we are going to add more to this list.
